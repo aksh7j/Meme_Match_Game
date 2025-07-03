@@ -63,7 +63,7 @@ The game supports **Backpack wallet** through the Solana Wallet Standard:
 
 ## 🚀 Live Demo
 
-**[Play Meme Match on Gorbagana Testnet →](https://your-deployment-url.vercel.app)**
+**[Play Meme Match on Gorbagana Testnet →](https://meme-match-game-jf29.vercel.app/)**
 
 ### Quick Start
 1. Install [Backpack Wallet](https://backpack.app)
@@ -199,7 +199,7 @@ The application will be available at `http://localhost:5000` with:
 ### ✅ Competition Requirements Met
 
 1. **✅ Working Prototype**: 
-   - Live URL: [Deployed on Vercel](https://your-deployment-url.vercel.app)
+   - Live URL: [Deployed on Vercel](https://meme-match-game-jf29.vercel.app/)
    - GitHub Repository: Full source code available
 
 2. **✅ Gorbagana Testnet Integration**:
